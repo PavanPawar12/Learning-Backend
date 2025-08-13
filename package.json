@@ -2,7 +2,7 @@
   "name": "backend-with-pavan",
   "version": "1.0.0",
   "description": "this is backend ",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
